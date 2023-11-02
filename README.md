@@ -1,0 +1,1 @@
+# Diabetes_Prediction_by_using_Machine_Learning_Algorithm_of_Support_Vector_Machine-SVM-
